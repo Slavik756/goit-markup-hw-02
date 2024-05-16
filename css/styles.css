@@ -28,3 +28,6 @@ body {
 .logo.focus {
     color: #404bbf;
 }
+.address {
+    font-style: normal
+}
