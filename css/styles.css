@@ -25,7 +25,7 @@ body {
 .logo:hover {
     color: #404bbf;
 }
-.logo.focus {
+.logo:focuss {
     color: #404bbf;
 }
 .address {
