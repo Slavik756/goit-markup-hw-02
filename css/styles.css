@@ -43,9 +43,8 @@ body {
 .address-link:focus {
     color: #404bbf;
 }
-.page {
-    background-color: #2e2f42;
-}
+
+
 .page-title {
     font-size: 56px;
     line-height: 1.07;
