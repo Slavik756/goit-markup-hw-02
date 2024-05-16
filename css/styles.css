@@ -67,10 +67,10 @@ body {
     
 }
 .button:hover { 
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 .button:focus {
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 .content-title {
     font-weight: 500;
