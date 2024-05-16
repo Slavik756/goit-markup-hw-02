@@ -22,10 +22,10 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.logo:hover {
+.nav-link:hover {
     color: #404bbf;
 }
-.logo:focus {
+.nav-link:focus {
     color: #404bbf;
 }
 .address {
