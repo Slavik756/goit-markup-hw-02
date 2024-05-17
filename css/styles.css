@@ -85,3 +85,17 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.foto {
+    background-color: #F4F4FD
+}
+.foto-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.content-list2 {
+    background-color: #FFFFFF
+}
