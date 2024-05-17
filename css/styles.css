@@ -106,6 +106,7 @@ body {
      letter-spacing: 0.02em;
      text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
 .portfolio-list-title {
     font-weight: 500;
@@ -119,4 +120,24 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.footer {
+    background-color: #2e2f42;
+}
+.footer-link {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.footer-logo {
+    color: #f4f4fd;
+}
+.footer-title {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
